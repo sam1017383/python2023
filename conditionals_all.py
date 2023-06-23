@@ -1,6 +1,6 @@
 # 1.
-x = 5
-y = 10
+x = 15
+y = 100
 if 2 * x > 10:
     print("Question 1 works!")
 else:
