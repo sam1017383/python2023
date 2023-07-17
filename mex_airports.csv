@@ -1,0 +1,10 @@
+City,Lat,Lon,Airport Name,IATA Name,Airport Address,Distance,Website
+Mexico City,19.4326296,-99.1331785,Aeropuerto Internacional de la Ciudad de México,MEX,"Avenida Bordo de Xochiaca, 15660 Nezahualcóyotl, MEX, Mexico",4393,
+Monterrey,25.6802019,-100.315258,Aeropuerto Internacional del Norte,NTR,"Carretera Monterrey-Nuevo Laredo, 66660 Apodaca, NLE, Mexico",20454,http://www.adelnorte.com.mx
+Guadalajara,20.6720375,-103.338396,Aeropuerto Internacional de Guadalajara Don Miguel Hidalgo y Costilla,GDL,"Airport Patrol, 45659 Santa Cruz del Valle, JAL, Mexico",13681,
+Acapulco,17.96207475,-94.76164140047032,Aeropuerto Internacional de Minatitlán,MTT,"Calle Cánticas, Canticas, VER, Mexico",22897,
+Cancun,21.1617854,-86.8510468,Aeropuerto Internacional de Cancún,CUN,"Estacionamiento Torre de control, 77565, ROO, Mexico",11688,https://www.airportcancun.com
+Tijuana,32.5317397,-117.0195295,Aeropuerto Internacional General Abelardo L. Rodríguez,TIJ,"Vía de la Juventud Oriente, Aeropuerto, 22404 Tijuana, BCN, Mexico",2469,
+Mexicali,32.6405247,-115.474899,Calexico International Airport,CXL,"Animal Shelter Drive, Calexico, CA 92231, United States of America",4165,
+Merida,20.9670759,-89.6237402,"Aeropuerto Internacional de Mérida ""Lic. Manuel Crescencio Rejón""",MID,"Calle 64A, 97278 Mérida, YUC, Mexico",3817,
+Puebla,19.0437196,-98.1981486,Aeropuerto Internacional de Puebla,PBC,"Carretera Federal Puebla-México, 74160 Santa María Zacatepec, PUE, Mexico",20391,
